@@ -1,0 +1,8 @@
+INFO:werkzeug: * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+INFO:app:Main request successfull
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2021 23:54:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2021 23:54:28] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:app:Metrics request successfull
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2021 23:54:34] "GET /metrics HTTP/1.1" 200 -
+INFO:app:Status request successfull
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2021 23:54:50] "GET /status HTTP/1.1" 200 -
